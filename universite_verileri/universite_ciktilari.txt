@@ -1,0 +1,1659 @@
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m52[0m
+Stucenter@fas.harvard.edu
+22@harvard.edu
+cuhs@harvard.edu
+news@gse.harvard.edu
+students-subscribe@lists.cs50.harvard.edu
+stefan.karpinski@post.harvard.edu
+bduisterhof@g.harvard.edu
+srivatsan@seas.harvard.edu
+fay569@g.harvard.edu
+gmalecha@eecs.harvard.edu
+graduatecommons@harvard.edu
+geos-chem-support@as.harvard.edu
+git@github.huit.harvard.edu
+lee_rubin@harvard.edu
+haoxin_li@hsph.harvard.edu
+silvi@hms.harvard.edu
+pha@harvard.edu
+bezanson@post.harvard.edu
+bioinformatics@hsph.harvard.edu
+jillpuleo@g.harvard.edu
+mcdonald@jimmy.harvard.edu
+wfu@college.harvard.edu
+malan@harvard.edu
+hr@hds.harvard.edu
+vlin@alumni.harvard.edu
+ttickle@hsph.harvard.edu
+hmallick@hsph.harvard.edu
+nelc@fas.harvard.edu
+cesar@harvard.harvard.edu
+torre@post.harvard.edu
+somerville.renter@hbs.harvard.edu
+'kclement@mgh.harvard.edu
+EJSafraFellowships@fas.harvard.edu
+cuddlywhiskers@harvard.edu
+ithelp@harvard.edu
+alba_gutierrez@hms.harvard.edu
+globalpoliticalthought@g.harvard.edu
+chaplains@harvard.edu
+students@lists.cs50.harvard.edu
+somerville.renter@harvard.edu
+ccdd@hsph.harvard.edu
+christopherkenny@fas.harvard.edu
+awittlin@post.harvard.edu
+ap@cs50.harvard.edu
+mjohnson@cfa.harvard.edu
+editorial@hbsp.harvard.edu
+hbctraining@hsph.harvard.edu
+msi@fas.harvard.edu
+firstnamelastname@college.harvard.edu
+harvardx@harvard.edu
+implicit@fas.harvard.edu
+cmccartan@g.harvard.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m56[0m
+jgross@mit.edu
+stephan@julialang.xvm.mit.edu
+boyers@mit.edu
+pdos@csail.mit.edu
+summerapp@mit.edu
+scratchday@media.mit.edu
+akcheung@csail.mit.edu
+awinter@mit.edu
+stevenj@alum.mit.edu
+SR-71@csail.mit.edu
+klbouman@30-103-240.dynamic.csail.mit.edu
+22@mit.edu
+slquestions@mit.edu
+cpitcla@csail.mit.edu
+help@scratch.mit.edu
+chomsky@mit.edu
+mosh-devel@mit.edu
+mit-driverless-cvcore@mit.edu
+free-food@mit.edu
+mitportugal@mit.edu
+kbaltes@mit.edu
+siva@csail.mit.edu
+malte@csail.mit.edu
+jdkaplan@mit.edu
+rbhui@mit.edu
+jdozier@mit.edu
+tlp@mit.edu
+studentlifesocial@mit.edu
+asantoss@mit.edu
+git@mit.edu
+ocw@mit.edu
+teppei@mit.edu
+contactpda@mit.edu
+stevenj@mit.edu
+schmidt@mit.edu
+amoulton@mit.edu
+menshockeycoaches@mit.edu
+sarahmck@mit.edu
+klbouman@mit.edu
+wangpeng@csail.mit.edu
+beta-housemanager@mit.edu
+admissions.mitsloan@mit.edu
+deshpandecenter@mit.edu
+steercomm-students@mit.edu
+bendy@csail.mit.edu
+mitpress-publicity@mit.edu
+vms@mit.edu
+adamc@csail.mit.edu
+tchajed@mit.edu
+sloanphd@sloan.mit.edu
+ichuang@mit.edu
+servicedesk@mit.edu
+admissions@mit.edu
+lacurts@mit.edu
+wojciech@csail.mit.edu
+stevenj@math.mit.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m27[0m
+transportation@stanford.edu
+sthiell@stanford.edu
+sheg@gse.stanford.edu
+iceatingstudy@stanford.edu
+drochoa@stanford.edu
+coopermj@stanford.edu
+roberto.martinmartin@stanford.edu
+kathleen.otoole@stanford.edu
+class2go@stanford.edu
+jdwong@stanford.edu
+retickerflynn@stanford.edu
+nutritionist@stanford.edu
+22@stanford.edu
+dvd.ai@stanford.edu
+ashishg@stanford.edu
+contact-cidr@lists.stanford.edu
+scpd-gradstudents@stanford.edu
+vuckovic@stanford.edu
+teenhealthstudy@stanford.edu
+russpold@stanford.edu
+amandlek@stanford.edu
+luhrmann@stanford.edu
+rozm@stanford.edu
+stamp-announce@lists.stanford.edu
+susskind@stanford.edu
+rjordan@stanford.edu
+java-nlp-support@lists.stanford.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m3[0m
+am485@cam.ac.uk
+bg200@cam.ac.uk
+saps@botanic.cam.ac.uk
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m1[0m
+user@ox.ac.uk
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m3[0m
+manabe@princeton.edu
+melowitz@princeton.edu
+refdesk@princeton.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m6[0m
+klg19@columbia.edu
+ColumbiaCollege@columbia.edu
+david.blei@columbia.edu
+ugrad-ask@columbia.edu
+anthony.fitzpatrick@columbia.edu
+ugrad-finaid@columbia.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m12[0m
+politics@uchicago.edu
+disabilities@uchicago.edu
+alumnitechsupport@uchicago.edu
+itservices@uchicago.edu
+addok@uchicago.edu
+katej@uchicago.edu
+studentwellness-notification@uchicago.edu
+registrar@uchicago.edu
+mcdean@uchicago.edu
+egpamer@uchicago.edu
+smart-museum@uchicago.edu
+international-affairs@uchicago.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Emails found: [0m[1m[36m1[0m
+regulation@law.upenn.edu
+[1m[32m[+] Saving results to files[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in ASK:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google+:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Youtube[0m
+[1m[32m[+] Searching in Yahoo + Youtube:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Youtube:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Instagram[0m
+[1m[32m[+] Searching in Yahoo + Instagram:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Instagram:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Linkedin[0m
+[1m[32m[+] Searching in Yahoo + Linkedin:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Linkedin:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Linkedin:[0m[1m[36m 100 results[0m
+[1m[31m[-] No emails found[0m
+[1m[32m[+] User-Agent in use: [0m[1m[36mMozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1[0m
+[1m[32m[+] Searching everywhere[0m
+[1m[32m[+] Searching in Yahoo:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Google:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Twitter[0m
+[1m[32m[+] Searching in Yahoo + Twitter:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Twitter:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Github[0m
+[1m[32m[+] Searching in Yahoo + Github:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Github:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Reddit[0m
+[1m[32m[+] Searching in Yahoo + Reddit:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Google + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 10 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 20 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 30 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 40 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 60 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 70 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 80 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 90 results[0m
+[1m[32m[+] Searching in Baidu + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead + Reddit:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Exalead:[0m[1m[36m 100 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 11 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 21 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 31 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 41 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 51 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 61 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 71 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 81 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 91 results[0m
+[1m[32m[+] Searching in Dogpile:[0m[1m[36m 101 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 50 results[0m
+[1m[32m[+] Searching in Bing:[0m[1m[36m 100 results[0m
